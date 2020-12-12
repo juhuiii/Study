@@ -1,5 +1,5 @@
-# Study_
-🌳 Self Study
+# Study
+🌳 Self Study & Mini Project
 
 # Commit Rule<br>
-🌳 git commit -m "Study_Language(Or Someting)_Ref(Or TIL)"
+🌳 git commit -m "Study(MP)_Language_Ref(Or TIL)"
