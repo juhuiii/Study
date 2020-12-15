@@ -1,0 +1,7 @@
+﻿  소스.cpp
+C:\Users\user\Desktop\C++\Ch04\Ch04\소스.cpp(552,1): error C2084: 'int main(void)' 함수에 이미 본문이 있습니다.
+C:\Users\user\Desktop\C++\Ch04\Ch04\소스.cpp(523): message : 'main'의 이전 정의를 참조하십시오.
+C:\Users\user\Desktop\C++\Ch04\Ch04\소스.cpp(558,28): error C2662: 'void Time::SetTime(int,int,int)': 'this' 포인터를 'const Time'에서 'Time &'(으)로 변환할 수 없습니다.
+C:\Users\user\Desktop\C++\Ch04\Ch04\소스.cpp(558,2): message : 변환하면서 한정자가 손실됩니다.
+C:\Users\user\Desktop\C++\Ch04\Ch04\소스.cpp(540,7): message : 'Time::SetTime' 선언을 참조하십시오.
+C:\Users\user\Desktop\C++\Ch04\Ch04\소스.cpp(558,31): error C2059: 구문 오류: ':'

@@ -1,0 +1,7 @@
+﻿  소스.cpp
+C:\Users\user\Desktop\C++\Ch08\Ch08\소스.cpp(361,3): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\user\Desktop\C++\Ch08\Ch08\소스.cpp(360): message : 클래스 템플릿 멤버 함수 'void PosValue<char>::outvalue(void)'을(를) 컴파일하는 중입니다.
+C:\Users\user\Desktop\C++\Ch08\Ch08\소스.cpp(381): message : 컴파일되는 함수 템플릿 인스턴스화 'void PosValue<char>::outvalue(void)'에 대한 참조를 확인하세요.
+C:\Users\user\Desktop\C++\Ch08\Ch08\소스.cpp(370): message : 컴파일되는 클래스 템플릿 인스턴스화 'PosValue<char>'에 대한 참조를 확인하세요.
+C:\Users\user\Desktop\C++\Ch08\Ch08\소스.cpp(378): message : 컴파일되는 클래스 템플릿 인스턴스화 'Wrapper<PosValue<char>>'에 대한 참조를 확인하세요.
+  Ch08.vcxproj -> C:\Users\user\Desktop\C++\Ch08\Debug\Ch08.exe

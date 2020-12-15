@@ -1,0 +1,3 @@
+﻿  소스.cpp
+C:\Users\user\Desktop\C++\Ch10\Ch10\소스.cpp(426): error C2440: '=': 'int Child::* '에서 'int Parent::* '(으)로 변환할 수 없습니다.
+C:\Users\user\Desktop\C++\Ch10\Ch10\소스.cpp(426): message : 기본 형식에서 파생 형식으로 캐스트하려면 dynamic_cast 또는 static_cast가 필요합니다.
