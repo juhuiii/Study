@@ -1,14 +1,5 @@
-import random
-time = radom.randint(1, 24)
-print("좋은 아침입니다. 지금 시간은 " +str(time)+"시 입니다.")
-sunny = radom.choice([True, False])
-if sunny :
-    print("현재 날씨가 화창합니다.")
+year=int(input("연도를 입력하세요 : "))
+if (year%4==0 and year%100!=0) or year%400==0):
+    print(year,"년은 윤년입니다.")
 else:
-    print("현재 날씨가 화창하지 않습니다.")
-
-if time >=6 and time <0 and sunny:
-    print("종달새가 노래를 한다.")
-
-else
-print("종달새가 노래를 하지 않는다.")
+    print(year,"년은 윤년이 아닙니다.")

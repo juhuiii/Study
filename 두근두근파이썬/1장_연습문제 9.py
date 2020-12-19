@@ -1,15 +1,3 @@
-#두근두근 파이썬 - 1장#
-#1-8#
-import turtle
-t=turtle.Turtle()
-t.shape("turtle")
-t.fd(100)
-t.up()
-t.goto(0,100)
-t.down()
-t.fd(100)
-
-#1-9#
 import turtle
 t=turtle.Turtle()
 t.shape("turtle")
